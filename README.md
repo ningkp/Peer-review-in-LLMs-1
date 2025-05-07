@@ -159,12 +159,10 @@ Arguments:
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```BibTeX
-@misc{ning2024peerreviewinllms,
-      title={Peer-review-in-LLMs: Automatic Evaluation Method for LLMs in Open-environment}, 
-      author={Kun-Peng Ning and Shuo Yang and Yu-Yang Liu and Jia-Yu Yao and Zhen-Hui Liu and Yu Wang and Ming Pang and Li Yuan},
-      year={2024},
-      eprint={2402.01830},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{ning2024pico,
+  title={PiCO: Peer Review in LLMs based on the Consistency Optimization},
+  author={Ning, Kun-Peng and Yang, Shuo and Liu, Yu-Yang and Yao, Jia-Yu and Liu, Zhen-Hui and Tian, Yong-Hong and Song, Yibing and Yuan, Li},
+  journal={arXiv preprint arXiv:2402.01830},
+  year={2024}
 }
 ```
